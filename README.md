@@ -1,4 +1,4 @@
-# pricoldesiki
+# Pricoldesiki
 ## Prikoldes
 first prikoldes, writen on html
 just a cool cube
